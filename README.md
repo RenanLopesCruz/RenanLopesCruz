@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo ao meu perfil! Eu sou o Renan !
 
-- Atualmente aprendendo Python📖
+- Atualmente aprendendo Python e JavaScript📖
 - Estudando de forma autodidata🧠
 
 <div>
