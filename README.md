@@ -1,7 +1,6 @@
 ### Olá, seja bem vindo ao meu perfil! Eu sou o Renan !
 
-- Atualmente aprendendo Python e JavaScript📖
-- Estudando de forma autodidata🧠
+- Atualmente aprendendo C# e .NET 🧠📚
 
 <div>
 	<a href="https://github.com/RenanLopesCruz">
